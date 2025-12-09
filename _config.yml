@@ -23,7 +23,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "images/20210413_091037.jpg"
+  avatar           : "20210413_091037.jpg"
   name             : "Dakota Hamill"
   pronouns         : # example: "she/her"  
   bio              : "Let love be genuine. Abhor what is evil; hold fast to what is good. R12:9"
